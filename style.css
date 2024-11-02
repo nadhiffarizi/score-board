@@ -1,0 +1,62 @@
+.main-div{
+    padding-top: 15vh;
+    padding-bottom: 10vh;
+    padding-right: 10vh;
+    padding-left: 10vh;
+    background-color: #1F2936;
+}
+
+.score-card{
+    background-color: black; 
+    color:  white; 
+    height: 30vh; 
+    width: 40%;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+ 
+}
+
+.score-board{
+    margin-top: 0px;
+    justify-items: center;
+}
+
+.btn-add-score{
+    width: 10vw;
+    border-radius: 40px;
+    font-size: 1rem;
+    padding: 2%;
+    font-weight: 700;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: white;
+}
+
+.title-player{
+    font-weight:bold;
+    color: white;
+}
+
+#btn-reset{
+    width: 30%;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: white;
+}
+
+.div-max-score{
+    
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-btn-reset{
+     
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+}
